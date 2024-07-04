@@ -11,9 +11,14 @@ Tested Apps Legit:
 Tested Apps Fake:
 - Block Puzzle - Brain Buster (Early Access)
 
+⚠️Danger Zone⚠️
+- CoinOut Recipes & Reward App
+
 Currrently Testing:
 - Alpha
 - Astra
 - Cosmic Rewards
 - Rewarded Play
 - Richie Games
+- FreeCash
+- AttaPoll
