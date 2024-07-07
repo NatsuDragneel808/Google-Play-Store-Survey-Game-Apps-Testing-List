@@ -1,9 +1,8 @@
 # NatsuDragneel808-Google-Play-Store-Survey-Game-Apps-Testing-List
-Is it legit or fake? Let the hunting begin.
+Is it legit or fake? Time to play cash or cap! Let the hunting begin.
 
 Best Legit Earning Apps For Surveys and Mobile Games:
 - TBD
-
 
 Tested Apps Legit:
 - Mistplay // Earnings:$10
@@ -17,6 +16,9 @@ Tested Apps Fake:
 - Block Puzzle - Brain Buster (Early Access)
 - Hello Bingo Time (Early Access)
 - Push The Coin
+- MoneyBunny
+- FreeCash
+- TesterUp
 - Packetshare // Not a survey app or game however it's a passive income generator that uses your wifi/data traffic for earning, I did test and it's fake. It needs to run in the background constantly but if the apps stop you lose all your earnings.
 
 ⚠️Danger Zone⚠️
@@ -27,8 +29,6 @@ Currently Testing:
 - Astra
 - Cosmic Rewards
 - Richie Games
-- FreeCash
 - AttaPoll
-- MoneyBunny
 - Yotta
 - PlayWell
