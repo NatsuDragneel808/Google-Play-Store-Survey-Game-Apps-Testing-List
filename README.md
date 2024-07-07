@@ -26,9 +26,9 @@ Currently Testing:
 - Alpha
 - Astra
 - Cosmic Rewards
-- Rewarded Play
 - Richie Games
 - FreeCash
 - AttaPoll
 - MoneyBunny
 - Yotta
+- PlayWell
