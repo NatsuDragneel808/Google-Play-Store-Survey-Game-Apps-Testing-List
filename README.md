@@ -17,10 +17,10 @@ Tested Apps Fake:
 - Block Puzzle - Brain Buster (Early Access)
 - Hello Bingo Time (Early Access)
 - Push The Coin
+- Packetshare // Not a survey app or game however it's a passive income generator that uses your wifi/data traffic for earning, I did test and it's fake. It needs to run in the background constantly but if the apps stop you lose all your earnings.
 
 ⚠️Danger Zone⚠️
 - CoinOut Recipes & Reward App // Steals you're SSI information
-- Packetshare // Not a survey app or game however it's a passive income generator that uses your wifi/data traffic for earning, I did test and it's fake. It needs to run in the background constantly but if the apps stop you lose all your earnings.
 
 Currently Testing:
 - Alpha
