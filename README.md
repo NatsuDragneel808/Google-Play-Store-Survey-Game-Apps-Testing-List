@@ -15,7 +15,7 @@ Tested Apps Legit:
 
 Tested Apps Fake:
 - Block Puzzle - Brain Buster (Early Access)
-- Hello Bingo
+- Hello Bingo Time (Early Access)
 - Push The Coin
 
 ⚠️Danger Zone⚠️
