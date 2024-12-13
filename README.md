@@ -1,4 +1,4 @@
-# NatsuDragneel808-Google-Play-Store-Survey-Game-Apps-Testing-List
+# NatsuDragneel808-Google-Play-Store-Survey-Game-Apps-Testing-List (THIS PROJECT IS DEPRICATED AND NO LONGER BEING WORKED ON)
 Is it legit or fake? Time to play cash or cap! Let the hunting begin.
 
 {Best Legit Earning Apps For Surveys and Mobile Games}
